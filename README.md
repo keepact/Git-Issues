@@ -1,4 +1,4 @@
-# React-Challenge-Rocketseat
+# Git Finder
 Rocketseat Bootcamp 9 Challenge Five
 
 ### App Screen
