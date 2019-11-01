@@ -75,7 +75,7 @@ export default class Main extends Component {
       <Container>
         <h1>
           <FaGithubAlt />
-          Repositories
+          Git Finder
         </h1>
 
         <Form onSubmit={this.handleSubmit} error={error}>
