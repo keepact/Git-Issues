@@ -12,7 +12,7 @@ It is a app to search for issues on Github repos. There are 2 screens:
 
 <strong>1</strong> - Registration page
 
-<strong>2</strong> - List of issues
+<strong>2</strong> - List of issues with filters
 
 ## libs used:
   
