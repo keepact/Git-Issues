@@ -3,7 +3,7 @@ Rocketseat Bootcamp 9 Challenge Five
 
 ### App Screen
 
-![Git Finder](https://github.com/keepact/Git-Finder/blob/master/app-screen.png)
+![Git Finder](https://github.com/keepact/Git-Issues/blob/master/app-screen.png)
 
 ## React Project
 
